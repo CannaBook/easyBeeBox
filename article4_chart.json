@@ -1,0 +1,26 @@
+[{
+        "lebenstag": "1. bis 3. Tag",
+        "bezeichnung": "Putzbiene",
+        "bienenaufgaben": "◦ Säuberung der Zellen, aus denen Bienen geschlüpft sind\n◦ Versieht die Zellen mit einem dünnen Propolisfilm, um sie für die neue Eiablage der Königin herzurichten\n◦ Nahrung wird in Wärmeenergie umgewandelt, um die Brut zu heizen"
+    },
+    {
+        "lebenstag": "4. bis 11. Tag",
+        "bezeichnung": "Ammenbiene",
+        "bienenaufgaben": "◦ Vorbereitung der Pollennahrung für die Larven und deren Versorgung\n◦ Futtersaftdrüsen sind im Kopf der Biene entwickelt\n◦ Versorgung der allerjüngsten Larven und Versorgung der Königin mit Futtersaft"
+    },
+    {
+        "lebenstag": "12. bis 14. Tag",
+        "bezeichnung": "Baubiene",
+        "bienenaufgaben": "◦ Ausscheidung von Wachs, Bau von Waben und Verdeckeln der Brut"
+    },
+    {
+        "lebenstag": "15. bis 19. Tag",
+        "bezeichnung": "Wächterbiene",
+        "bienenaufgaben": "◦ Wachbiene am Eingang des Bienenstocks\n◦ Vorbereitung zur Trachtbiene\n◦ Futtersaft- und Wachdrüsen bilden sich zurück"
+    },
+    {
+        "lebenstag": "ab 21. Tag",
+        "bezeichnung": "◦ Sammlerin\nKundschafterin\nBelüfterin\nHerstellerin von Honig",
+        "bienenaufgaben": "◦ Sammelt Pollen, Wasser und Nektar, stellt Propolis her und verarbeitet Nektar und Honigtau zu Honig"
+    }
+]
